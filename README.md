@@ -1,8 +1,8 @@
 # Misc documentation
 
 ## Sarali Varisai
-  [Annotation] (music/Sarali%20Varisai.pdf)
+  [Annotation] (music/Sarali_Varisai.pdf)
 
 ## Jantai Varisai
-  [Annotation] (music/Jantai%20Varisai.pdf)
+  [Annotation] (music/Jantai_Varisai.pdf)
 
